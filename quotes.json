@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-06-24",
   "quotes": [
     {
@@ -253,6 +253,511 @@
       "text": "Hedefe ulaşmanın tek garanti yolu, devam etmektir."
     },
     {
+      "id": "m051",
+      "category": "motivasyon",
+      "text": "Bugün seni zorlayan ağırlık, yarın ısınma hareketin olacak."
+    },
+    {
+      "id": "m052",
+      "category": "motivasyon",
+      "text": "Hedefe inanmak yetmez; her gün biraz ödemeyi göze al."
+    },
+    {
+      "id": "m053",
+      "category": "motivasyon",
+      "text": "Başarı, sıkıldığın günlerde bile devam edebilmektir."
+    },
+    {
+      "id": "m054",
+      "category": "motivasyon",
+      "text": "Bugünün terini, yarının aynası geri ödüyor."
+    },
+    {
+      "id": "m055",
+      "category": "motivasyon",
+      "text": "İlerleme sessizdir; bir gün aynaya bakarsın ve fark edersin."
+    },
+    {
+      "id": "m056",
+      "category": "motivasyon",
+      "text": "Hedefe giden en kısa yol, bugün başlamaktır."
+    },
+    {
+      "id": "m057",
+      "category": "motivasyon",
+      "text": "Yorulmak zayıflık değil, çalıştığının kanıtıdır."
+    },
+    {
+      "id": "m058",
+      "category": "motivasyon",
+      "text": "Her büyük dönüşüm, küçük ve sıkıcı bir alışkanlıkla başladı."
+    },
+    {
+      "id": "m059",
+      "category": "motivasyon",
+      "text": "Kendine 'yarın' deme; yarın da bugün gibi gelecek."
+    },
+    {
+      "id": "m060",
+      "category": "motivasyon",
+      "text": "Zoru bugün seç ki yarın kolay olsun."
+    },
+    {
+      "id": "m061",
+      "category": "motivasyon",
+      "text": "Bir antrenman seni değiştirmez; yüz antrenman değiştirir. Birinciyi yap."
+    },
+    {
+      "id": "m062",
+      "category": "motivasyon",
+      "text": "Kasların değil, kararların seni inşa eder."
+    },
+    {
+      "id": "m063",
+      "category": "motivasyon",
+      "text": "Bugün biraz daha; toplamı seni şaşırtacak."
+    },
+    {
+      "id": "m064",
+      "category": "motivasyon",
+      "text": "Hedefini yüksek tut; düşük hedefler kimseyi heyecanlandırmaz."
+    },
+    {
+      "id": "m065",
+      "category": "motivasyon",
+      "text": "Salona gitmek için motive olmayı bekleme; git, motivasyon gelir."
+    },
+    {
+      "id": "m066",
+      "category": "motivasyon",
+      "text": "En büyük rakibin, dünkü konfor alanın."
+    },
+    {
+      "id": "m067",
+      "category": "motivasyon",
+      "text": "İlerlemenin sırrı yetenek değil, devamlılık."
+    },
+    {
+      "id": "m068",
+      "category": "motivasyon",
+      "text": "Vazgeçmek bir an sürer; pişmanlık yıllarca."
+    },
+    {
+      "id": "m069",
+      "category": "motivasyon",
+      "text": "Bugün attığın o tek adım, bir yıl sonra koca bir yol olur."
+    },
+    {
+      "id": "m070",
+      "category": "motivasyon",
+      "text": "Sınırların çoğu hayal ürünü; bir tekrar daha dene, gör."
+    },
+    {
+      "id": "m071",
+      "category": "motivasyon",
+      "text": "Acelen olmasın ama durmana da izin verme."
+    },
+    {
+      "id": "m072",
+      "category": "motivasyon",
+      "text": "Hedefin net olsun; sis içinde yürünmez."
+    },
+    {
+      "id": "m073",
+      "category": "motivasyon",
+      "text": "Bahane üretmek de enerji ister; o enerjiyi tekrara harca."
+    },
+    {
+      "id": "m074",
+      "category": "motivasyon",
+      "text": "Bugün küçük bir zafer kazan; özgüven böyle birikir."
+    },
+    {
+      "id": "m075",
+      "category": "motivasyon",
+      "text": "En zor gün, başladığın gün. Sonrası ivme."
+    },
+    {
+      "id": "m076",
+      "category": "motivasyon",
+      "text": "Kimse kapına gelip seni kaldırmaz; kalkmak senin işin."
+    },
+    {
+      "id": "m077",
+      "category": "motivasyon",
+      "text": "Sıkıldığında bırakırsan, hep baştan başlarsın."
+    },
+    {
+      "id": "m078",
+      "category": "motivasyon",
+      "text": "Bedenin pes etmeden çok önce zihnin pes eder; zihnini eğit."
+    },
+    {
+      "id": "m079",
+      "category": "motivasyon",
+      "text": "Bugün biraz zorlanmazsan, yarın aynı yerdesin."
+    },
+    {
+      "id": "m080",
+      "category": "motivasyon",
+      "text": "İlham gelip geçer; alışkanlık kalır. Alışkanlığa yatır."
+    },
+    {
+      "id": "m081",
+      "category": "motivasyon",
+      "text": "Hedefin korkutmuyorsa, yeterince istemiyorsundur."
+    },
+    {
+      "id": "m082",
+      "category": "motivasyon",
+      "text": "Yarının gücü, bugün döktüğün terle ölçülür."
+    },
+    {
+      "id": "m083",
+      "category": "motivasyon",
+      "text": "Düşmek değil, yatıp kalmak yenilgidir."
+    },
+    {
+      "id": "m084",
+      "category": "motivasyon",
+      "text": "Konfor tatlıdır ama seni hiçbir yere götürmez."
+    },
+    {
+      "id": "m085",
+      "category": "motivasyon",
+      "text": "Bugün gelme sebebini, yarın gelmeme bahanesinden güçlü tut."
+    },
+    {
+      "id": "m086",
+      "category": "motivasyon",
+      "text": "En iyi zaman dünmüş; ikincisi şimdi."
+    },
+    {
+      "id": "m087",
+      "category": "motivasyon",
+      "text": "Her 'yapamam' aslında 'henüz denemedim'dir."
+    },
+    {
+      "id": "m088",
+      "category": "motivasyon",
+      "text": "Hayalini somut bir plana çevir; gerisi tekrar."
+    },
+    {
+      "id": "m089",
+      "category": "motivasyon",
+      "text": "Zorlukların seni büyütür; kolaylık seni olduğun yerde tutar."
+    },
+    {
+      "id": "m090",
+      "category": "motivasyon",
+      "text": "Bugün verdiğin söze sadık kal; yarın sana güvenecek olan sensin."
+    },
+    {
+      "id": "m091",
+      "category": "motivasyon",
+      "text": "İlerleme doğrusal değil; iniş çıkışlarda da yürümeye devam et."
+    },
+    {
+      "id": "m092",
+      "category": "motivasyon",
+      "text": "Tek bir tekrar bir şey değiştirmez sandığın an, tam da o tekrarı yap."
+    },
+    {
+      "id": "m093",
+      "category": "motivasyon",
+      "text": "Salonun kapısından geçmek, günün en zor ama en değerli adımı."
+    },
+    {
+      "id": "m094",
+      "category": "motivasyon",
+      "text": "Kendini geçmenin yolu, dünden bir gram daha çabalamak."
+    },
+    {
+      "id": "m095",
+      "category": "motivasyon",
+      "text": "Hedef büyükse, adımlar küçük olsun ama her gün atılsın."
+    },
+    {
+      "id": "m096",
+      "category": "motivasyon",
+      "text": "Yorgunluğun konuşur; sen devam et, o susar."
+    },
+    {
+      "id": "m097",
+      "category": "motivasyon",
+      "text": "İmkânsız, sadece henüz başarılmamış demektir."
+    },
+    {
+      "id": "m098",
+      "category": "motivasyon",
+      "text": "Bugünü kazan; gelecek, kazanılmış günlerin toplamı."
+    },
+    {
+      "id": "m099",
+      "category": "motivasyon",
+      "text": "Aynadaki kişiyle yarış; tek adil rakip o."
+    },
+    {
+      "id": "m100",
+      "category": "motivasyon",
+      "text": "Mazeret rahat ettirir, sonuç gurur verir; birini seç."
+    },
+    {
+      "id": "m101",
+      "category": "motivasyon",
+      "text": "Çalışmak şanslı olmaktan daha güvenilir bir strateji."
+    },
+    {
+      "id": "m102",
+      "category": "motivasyon",
+      "text": "Bugün ektiğin disiplin, yarın gölgesinde dinleneceğin ağaç olur."
+    },
+    {
+      "id": "m103",
+      "category": "motivasyon",
+      "text": "Pes etmek için bin sebep var; bir tane 'neden başladın'ı hatırla."
+    },
+    {
+      "id": "m104",
+      "category": "motivasyon",
+      "text": "Vücudun değişimi, canının istemediği günlerde olur."
+    },
+    {
+      "id": "m105",
+      "category": "motivasyon",
+      "text": "Hedefe ulaşmanın garantisi yok; ulaşmamaya çalışmanın garantisi var."
+    },
+    {
+      "id": "m106",
+      "category": "motivasyon",
+      "text": "Bugün biraz daha ağır kaldır, biraz daha uzun dayan."
+    },
+    {
+      "id": "m107",
+      "category": "motivasyon",
+      "text": "Başarı bir olay değil, bir alışkanlıklar zinciri."
+    },
+    {
+      "id": "m108",
+      "category": "motivasyon",
+      "text": "Zihnin 'dur' der; sen 'bir tane daha' de."
+    },
+    {
+      "id": "m109",
+      "category": "motivasyon",
+      "text": "Her ter damlası geleceğine yazılmış bir imza."
+    },
+    {
+      "id": "m110",
+      "category": "motivasyon",
+      "text": "Küçük başla, ama başla; mükemmel plan asla gelmez."
+    },
+    {
+      "id": "m111",
+      "category": "motivasyon",
+      "text": "Antrenmana gitmek isteyene kadar bekleyen hiç gitmez."
+    },
+    {
+      "id": "m112",
+      "category": "motivasyon",
+      "text": "Senin hikâyeni kimse yazmayacak; kalemi sen tut."
+    },
+    {
+      "id": "m113",
+      "category": "motivasyon",
+      "text": "Zorluk seni kırmaz, şekil verir."
+    },
+    {
+      "id": "m114",
+      "category": "motivasyon",
+      "text": "Bugün attığın adımı küçük görme; yön doğruysa mesafe gelir."
+    },
+    {
+      "id": "m115",
+      "category": "motivasyon",
+      "text": "Hedefe sadık kalmak, hevesli olmaktan daha güçlüdür."
+    },
+    {
+      "id": "m116",
+      "category": "motivasyon",
+      "text": "En karanlık set, şafaktan hemen öncesidir; bir tekrar daha."
+    },
+    {
+      "id": "m117",
+      "category": "motivasyon",
+      "text": "Konfor alanın geniş hissettiriyorsa, küçülüyorsun demektir."
+    },
+    {
+      "id": "m118",
+      "category": "motivasyon",
+      "text": "Bugünkü çaban, gelecekteki seçeneklerin."
+    },
+    {
+      "id": "m119",
+      "category": "motivasyon",
+      "text": "Yorgunken bıraktığın yer, gelişimin başladığı yer."
+    },
+    {
+      "id": "m120",
+      "category": "motivasyon",
+      "text": "İlerleme istiyorsan rahatsızlıkla arkadaş ol."
+    },
+    {
+      "id": "m121",
+      "category": "motivasyon",
+      "text": "Her gün biraz; çünkü büyük sıçramalar küçük adımların hilesidir."
+    },
+    {
+      "id": "m122",
+      "category": "motivasyon",
+      "text": "Bugün 'sonra' dersen, o 'sonra' hiç gelmez."
+    },
+    {
+      "id": "m123",
+      "category": "motivasyon",
+      "text": "Gerçek güç, kimsenin alkışlamadığı günlerde devam etmektir."
+    },
+    {
+      "id": "m124",
+      "category": "motivasyon",
+      "text": "Hedefin için bugün bir bedel öde; pahalı olan vazgeçmek."
+    },
+    {
+      "id": "m125",
+      "category": "motivasyon",
+      "text": "Salonu sevmek zorunda değilsin; sadece gitmen yeterli."
+    },
+    {
+      "id": "m126",
+      "category": "motivasyon",
+      "text": "Bugün biraz canın yansın ki yarın gururun okşansın."
+    },
+    {
+      "id": "m127",
+      "category": "motivasyon",
+      "text": "Vücudun bir yatırım; her gün düzenli olarak besle ve çalıştır."
+    },
+    {
+      "id": "m128",
+      "category": "motivasyon",
+      "text": "Hayalini kurduğun sürüm, bugünkü disiplininin çocuğu."
+    },
+    {
+      "id": "m129",
+      "category": "motivasyon",
+      "text": "İlk haftalar zordur; bırakırsan hep ilk hafta yaşarsın."
+    },
+    {
+      "id": "m130",
+      "category": "motivasyon",
+      "text": "Ne kadar yavaş olursan ol, koltukta oturandan hızlısın."
+    },
+    {
+      "id": "m131",
+      "category": "motivasyon",
+      "text": "Bugünkü 'istemiyorum'u yen; en değerli zafer bu."
+    },
+    {
+      "id": "m132",
+      "category": "motivasyon",
+      "text": "Hedef uzaksa, gözünü bir sonraki adıma dik."
+    },
+    {
+      "id": "m133",
+      "category": "motivasyon",
+      "text": "Senin standartların, başkalarının beklentilerinden yüksek olsun."
+    },
+    {
+      "id": "m134",
+      "category": "motivasyon",
+      "text": "Bahaneler ısınma yapmaz; sen yap."
+    },
+    {
+      "id": "m135",
+      "category": "motivasyon",
+      "text": "Bugün de geldin; işte fark yaratan tam bu."
+    },
+    {
+      "id": "m136",
+      "category": "motivasyon",
+      "text": "Sonuç sabırla gelir; sabır da tekrarla."
+    },
+    {
+      "id": "m137",
+      "category": "motivasyon",
+      "text": "İlerlemenin düşmanı hız değil, durmaktır."
+    },
+    {
+      "id": "m138",
+      "category": "motivasyon",
+      "text": "Kendine 'bir tane daha' demeyi öğren; her şey orada."
+    },
+    {
+      "id": "m139",
+      "category": "motivasyon",
+      "text": "Zoru bugün kucakla; kolay seni hiçbir yere taşımaz."
+    },
+    {
+      "id": "m140",
+      "category": "motivasyon",
+      "text": "Hayatın değişmesini istiyorsan, alışkanlığını değiştir."
+    },
+    {
+      "id": "m141",
+      "category": "motivasyon",
+      "text": "Bugünün küçük adımı, yarının büyük gururudur."
+    },
+    {
+      "id": "m142",
+      "category": "motivasyon",
+      "text": "Yorgunluk geçici, kazandığın karakter kalıcı."
+    },
+    {
+      "id": "m143",
+      "category": "motivasyon",
+      "text": "Hedefe inanan kişi, yağmurda da koşar."
+    },
+    {
+      "id": "m144",
+      "category": "motivasyon",
+      "text": "Her büyük sonuç, sıkıcı tekrarların gizli ödülü."
+    },
+    {
+      "id": "m145",
+      "category": "motivasyon",
+      "text": "Bugün biraz daha dayan; sınır sandığın yer başlangıçmış."
+    },
+    {
+      "id": "m146",
+      "category": "motivasyon",
+      "text": "Vazgeçme anı, çoğu zaman atılımdan bir adım öncedir."
+    },
+    {
+      "id": "m147",
+      "category": "motivasyon",
+      "text": "Disiplin bugün acıtır; pişmanlık ömür boyu."
+    },
+    {
+      "id": "m148",
+      "category": "motivasyon",
+      "text": "Kendini kanıtlama; sadece her gün gel."
+    },
+    {
+      "id": "m149",
+      "category": "motivasyon",
+      "text": "Bugünü erteleme; yarın bugünün faturası."
+    },
+    {
+      "id": "m150",
+      "category": "motivasyon",
+      "text": "Güç, rahatlığın bittiği yerde başlar."
+    },
+    {
+      "id": "m151",
+      "category": "motivasyon",
+      "text": "Hedefini sabah hatırla, akşam gururla yat."
+    },
+    {
       "id": "d001",
       "category": "disiplin",
       "text": "Canın istemediğinde de gitmek; şampiyonu amatörden ayıran tek şey budur."
@@ -426,6 +931,306 @@
       "id": "d035",
       "category": "disiplin",
       "text": "Mükemmellik değil, süreklilik hedefin olsun."
+    },
+    {
+      "id": "d036",
+      "category": "disiplin",
+      "text": "Niyetini sabah kur; akşam yorgunluk seni ikna etmesin."
+    },
+    {
+      "id": "d037",
+      "category": "disiplin",
+      "text": "Küçük sözleri tut; büyük hedefler ona güvenir."
+    },
+    {
+      "id": "d038",
+      "category": "disiplin",
+      "text": "Disiplin, hevesin bittiği gün devam edebilmektir."
+    },
+    {
+      "id": "d039",
+      "category": "disiplin",
+      "text": "Planın yoksa, gününü başkaları planlar."
+    },
+    {
+      "id": "d040",
+      "category": "disiplin",
+      "text": "Aynı saatte gel; beyin tekrarı sever."
+    },
+    {
+      "id": "d041",
+      "category": "disiplin",
+      "text": "Bugün yorgunsun; programın umursamıyor, sen de umursama."
+    },
+    {
+      "id": "d042",
+      "category": "disiplin",
+      "text": "Küçük ama her gün; sırrın tamamı bu."
+    },
+    {
+      "id": "d043",
+      "category": "disiplin",
+      "text": "Disiplin, kendine verdiğin sözü tutmaktır."
+    },
+    {
+      "id": "d044",
+      "category": "disiplin",
+      "text": "Niyet güzeldir ama yalnızca tekrar değiştirir."
+    },
+    {
+      "id": "d045",
+      "category": "disiplin",
+      "text": "Bir günü kaçır, olur; iki günü kaçırma, alışkanlık olur."
+    },
+    {
+      "id": "d046",
+      "category": "disiplin",
+      "text": "Ruh haline değil, takvimine bak."
+    },
+    {
+      "id": "d047",
+      "category": "disiplin",
+      "text": "Disiplin bir kez kurulur, sonra seni o taşır."
+    },
+    {
+      "id": "d048",
+      "category": "disiplin",
+      "text": "Zor gün, karakterini en çok büyüten gündür; kaçma."
+    },
+    {
+      "id": "d049",
+      "category": "disiplin",
+      "text": "Erken kalk, önce kendine yatırım yap, sonra dünyaya."
+    },
+    {
+      "id": "d050",
+      "category": "disiplin",
+      "text": "Mazeret kolaydır; o yüzden zoru seçeni şampiyon yapar."
+    },
+    {
+      "id": "d051",
+      "category": "disiplin",
+      "text": "Tutarlılık, yeteneğin gizli galibidir."
+    },
+    {
+      "id": "d052",
+      "category": "disiplin",
+      "text": "Bugünkü disiplin, yarınki özgürlüğün."
+    },
+    {
+      "id": "d053",
+      "category": "disiplin",
+      "text": "Program seni özgürleştirir; kaos sadece yorar."
+    },
+    {
+      "id": "d054",
+      "category": "disiplin",
+      "text": "Söz verdiğin saatte orada ol; güven böyle inşa edilir."
+    },
+    {
+      "id": "d055",
+      "category": "disiplin",
+      "text": "Disiplin, kimse bakmazken bile doğru olanı yapmaktır."
+    },
+    {
+      "id": "d056",
+      "category": "disiplin",
+      "text": "Hedefe kestirme aramayı bırak; düzenli adımlar tek yol."
+    },
+    {
+      "id": "d057",
+      "category": "disiplin",
+      "text": "Bugün canın istemese de git; en değerli antrenman o."
+    },
+    {
+      "id": "d058",
+      "category": "disiplin",
+      "text": "Her sabah aynı seçimi yap: bahane mi, tekrar mı."
+    },
+    {
+      "id": "d059",
+      "category": "disiplin",
+      "text": "Rutin sıkıcıdır; sonuçları muhteşem."
+    },
+    {
+      "id": "d060",
+      "category": "disiplin",
+      "text": "Disiplin, dürtüye 'hayır', hedefe 'evet' demektir."
+    },
+    {
+      "id": "d061",
+      "category": "disiplin",
+      "text": "Az ve düzenli, çok ve düzensizden her zaman önde."
+    },
+    {
+      "id": "d062",
+      "category": "disiplin",
+      "text": "Bugün attığın imza, yarınki halinin sözleşmesi."
+    },
+    {
+      "id": "d063",
+      "category": "disiplin",
+      "text": "Yapacağını söyle, söylediğini sürdür."
+    },
+    {
+      "id": "d064",
+      "category": "disiplin",
+      "text": "Motivasyonu bekleme; rutin onu zaten getirir."
+    },
+    {
+      "id": "d065",
+      "category": "disiplin",
+      "text": "Disiplin, küçük zaferlerin günlük tekrarıdır."
+    },
+    {
+      "id": "d066",
+      "category": "disiplin",
+      "text": "Hedefini gözünün önünde tut; gözden kaçan, elden kaçar."
+    },
+    {
+      "id": "d067",
+      "category": "disiplin",
+      "text": "Bugünkü tembelliğe direnen, yarın kendine teşekkür eder."
+    },
+    {
+      "id": "d068",
+      "category": "disiplin",
+      "text": "Sürekli ol; vücut zamanlamanı ödüllendirir."
+    },
+    {
+      "id": "d069",
+      "category": "disiplin",
+      "text": "Bir alışkanlık kurmak zordur; korumak ondan kolaydır."
+    },
+    {
+      "id": "d070",
+      "category": "disiplin",
+      "text": "Kararını sabah ver; akşam yorgunluk pazarlık yapar."
+    },
+    {
+      "id": "d071",
+      "category": "disiplin",
+      "text": "Disiplin, ilhamın yokken bile çalışan motordur."
+    },
+    {
+      "id": "d072",
+      "category": "disiplin",
+      "text": "Programına sadık kal, sonucu sürece bırak."
+    },
+    {
+      "id": "d073",
+      "category": "disiplin",
+      "text": "Her gün küçük bir söz tut; büyük hedef ona yaslanır."
+    },
+    {
+      "id": "d074",
+      "category": "disiplin",
+      "text": "Mükemmel olma; tutarlı ol."
+    },
+    {
+      "id": "d075",
+      "category": "disiplin",
+      "text": "Bugün gelmek için bin sebebin olmasına gerek yok; bir tane yeter."
+    },
+    {
+      "id": "d076",
+      "category": "disiplin",
+      "text": "Hedefe götüren yol sıkıcıdır; ışıklı tabela arama."
+    },
+    {
+      "id": "d077",
+      "category": "disiplin",
+      "text": "Disiplin acı verir ama pişmanlığın faturası daha ağır."
+    },
+    {
+      "id": "d078",
+      "category": "disiplin",
+      "text": "Niyetini eyleme çevirmeyen niyet, sadece hayaldir."
+    },
+    {
+      "id": "d079",
+      "category": "disiplin",
+      "text": "Salona girmek bir karar; orada kalmak bir alışkanlık."
+    },
+    {
+      "id": "d080",
+      "category": "disiplin",
+      "text": "Sabah rutinin, günün geri kalanının tonunu belirler."
+    },
+    {
+      "id": "d081",
+      "category": "disiplin",
+      "text": "Disiplin, kısa vadeli keyfi uzun vadeli hedefe takas etmektir."
+    },
+    {
+      "id": "d082",
+      "category": "disiplin",
+      "text": "Bugün küçük görünen düzen, yarın büyük fark yaratır."
+    },
+    {
+      "id": "d083",
+      "category": "disiplin",
+      "text": "Plan + tekrar = sonuç. Gerisi gürültü."
+    },
+    {
+      "id": "d084",
+      "category": "disiplin",
+      "text": "Hedefe inanıyorsan, takvime de inan."
+    },
+    {
+      "id": "d085",
+      "category": "disiplin",
+      "text": "Disiplin, dış denetim değil iç sözdür."
+    },
+    {
+      "id": "d086",
+      "category": "disiplin",
+      "text": "Yorgunken bile gelmek; işte amatörle profesyonelin farkı."
+    },
+    {
+      "id": "d087",
+      "category": "disiplin",
+      "text": "Bugünü atlama; zincirin halkalarını sen örüyorsun."
+    },
+    {
+      "id": "d088",
+      "category": "disiplin",
+      "text": "Süreklilik, mucizeden daha güvenilir."
+    },
+    {
+      "id": "d089",
+      "category": "disiplin",
+      "text": "Kendi kurallarını koy, sonra onlara uy."
+    },
+    {
+      "id": "d090",
+      "category": "disiplin",
+      "text": "Disiplin, gelecekteki sana verilmiş bir armağandır."
+    },
+    {
+      "id": "d091",
+      "category": "disiplin",
+      "text": "Antrenman saati geldi mi tartışma; sadece başla."
+    },
+    {
+      "id": "d092",
+      "category": "disiplin",
+      "text": "Bugünün düzeni, yarının huzuru."
+    },
+    {
+      "id": "d093",
+      "category": "disiplin",
+      "text": "Hedefini hatırla, bahaneyi unut."
+    },
+    {
+      "id": "d094",
+      "category": "disiplin",
+      "text": "Disiplin, küçük 'evet'lerle değil, küçük 'hayır'larla büyür."
+    },
+    {
+      "id": "d095",
+      "category": "disiplin",
+      "text": "Tek seferlik kahramanlık değil, günlük sadakat kazandırır."
     },
     {
       "id": "s001",
@@ -603,6 +1408,221 @@
       "text": "Büyük oyuncular zor anları sever; orada fark yaratırlar."
     },
     {
+      "id": "s036",
+      "category": "sporcu",
+      "text": "Şampiyon, herkesin bıraktığı yerde bir tekrar daha yapandır."
+    },
+    {
+      "id": "s037",
+      "category": "sporcu",
+      "text": "Maçı kazandıran, antrenmandaki o sıkıcı tekrarlardır."
+    },
+    {
+      "id": "s038",
+      "category": "sporcu",
+      "text": "Günleri sayma, günleri değerli kıl. — Muhammad Ali"
+    },
+    {
+      "id": "s039",
+      "category": "sporcu",
+      "text": "Şampiyonlar salonda değil, içlerindeki ateşle yaratılır. — Muhammad Ali"
+    },
+    {
+      "id": "s040",
+      "category": "sporcu",
+      "text": "Seni yoran önündeki dağlar değil, ayakkabındaki çakıl taşıdır. — Muhammad Ali"
+    },
+    {
+      "id": "s041",
+      "category": "sporcu",
+      "text": "Başarısızlığı kabul edebilirim; denememeyi asla. — Michael Jordan"
+    },
+    {
+      "id": "s042",
+      "category": "sporcu",
+      "text": "Engeller seni durdurmasın; bir duvara çarptıysan dönüp pes etme, nasıl tırmanacağını bul. — Michael Jordan"
+    },
+    {
+      "id": "s043",
+      "category": "sporcu",
+      "text": "Güç kazanmaktan gelmez; mücadelelerin gücünü geliştirir. — Arnold Schwarzenegger"
+    },
+    {
+      "id": "s044",
+      "category": "sporcu",
+      "text": "Zihin sınırdır; zihnin bir şeyi yapabildiğini gördüğü an, yaparsın. — Arnold Schwarzenegger"
+    },
+    {
+      "id": "s045",
+      "category": "sporcu",
+      "text": "Bilmek yetmez, uygulamak gerek; istemek yetmez, yapmak gerek. — Bruce Lee"
+    },
+    {
+      "id": "s046",
+      "category": "sporcu",
+      "text": "Kolay bir hayat için değil, zoru taşıyacak güç için dua et. — Bruce Lee"
+    },
+    {
+      "id": "s047",
+      "category": "sporcu",
+      "text": "Her şey pratiktir. — Pelé"
+    },
+    {
+      "id": "s048",
+      "category": "sporcu",
+      "text": "Zafer ne kadar zorsa, kazanmanın mutluluğu o kadar büyüktür. — Pelé"
+    },
+    {
+      "id": "s049",
+      "category": "sporcu",
+      "text": "Bir şampiyon, kazanmalarıyla değil, düştüğünde nasıl toparlandığıyla tanımlanır. — Serena Williams"
+    },
+    {
+      "id": "s050",
+      "category": "sporcu",
+      "text": "Harika şeyler sıkı çalışmadan ve azimden gelir. Mazeret yok. — Kobe Bryant"
+    },
+    {
+      "id": "s051",
+      "category": "sporcu",
+      "text": "Disiplin, nefret ettiğin şeyi seviyormuş gibi yapmaktır. — Mike Tyson"
+    },
+    {
+      "id": "s052",
+      "category": "sporcu",
+      "text": "Herkesin bir planı vardır, ta ki ağzına bir yumruk yiyene kadar. — Mike Tyson"
+    },
+    {
+      "id": "s053",
+      "category": "sporcu",
+      "text": "Sıkı çalışmadan yetenek hiçbir şeydir. — Cristiano Ronaldo"
+    },
+    {
+      "id": "s054",
+      "category": "sporcu",
+      "text": "Hayaline ulaşmak için savaşman, fedakârlık etmen ve çok çalışman gerekir. — Lionel Messi"
+    },
+    {
+      "id": "s055",
+      "category": "sporcu",
+      "text": "Şampiyon, herkesin pes ettiği yerde bir tekrar daha yapandır."
+    },
+    {
+      "id": "s056",
+      "category": "sporcu",
+      "text": "Antrenmanda akıttığın ter, maçta akıtmayacağın kandır."
+    },
+    {
+      "id": "s057",
+      "category": "sporcu",
+      "text": "Yetenek seni kapıya getirir; çalışma içeride tutar."
+    },
+    {
+      "id": "s058",
+      "category": "sporcu",
+      "text": "Sahaya çıkmadan önce zaferi zihninde kazan."
+    },
+    {
+      "id": "s059",
+      "category": "sporcu",
+      "text": "Büyük oyuncular baskıyı sever; fark orada yaratılır."
+    },
+    {
+      "id": "s060",
+      "category": "sporcu",
+      "text": "Rakibini merak etme; kendi standardını yükselt."
+    },
+    {
+      "id": "s061",
+      "category": "sporcu",
+      "text": "Şampiyonluk bir an değil, binlerce sıkıcı tekrarın toplamıdır."
+    },
+    {
+      "id": "s062",
+      "category": "sporcu",
+      "text": "Korku herkeste var; cesaret, korkuyla birlikte sahaya çıkmaktır."
+    },
+    {
+      "id": "s063",
+      "category": "sporcu",
+      "text": "Form gelir gider; çalışma ahlakı kalıcıdır."
+    },
+    {
+      "id": "s064",
+      "category": "sporcu",
+      "text": "Kaybetmek de kazanmak gibi öğrenilir; doğru dersi al."
+    },
+    {
+      "id": "s065",
+      "category": "sporcu",
+      "text": "Zorlu anlar karakterini gösterir, yaratmaz; o yüzden önceden hazırlan."
+    },
+    {
+      "id": "s066",
+      "category": "sporcu",
+      "text": "Rekorlar, 'imkânsız' diyenlerin değil, 'bir kez daha' diyenlerin işidir."
+    },
+    {
+      "id": "s067",
+      "category": "sporcu",
+      "text": "Yorgunken verilen söz, dinlenmişken verilenden değerlidir."
+    },
+    {
+      "id": "s068",
+      "category": "sporcu",
+      "text": "Sahada bıraktığın her şey, tribünde alkışa dönüşür."
+    },
+    {
+      "id": "s069",
+      "category": "sporcu",
+      "text": "Gerçek rakip skor değil, kendi konfor alanın."
+    },
+    {
+      "id": "s070",
+      "category": "sporcu",
+      "text": "Şampiyon zihniyeti: bahane yok, sadece sonraki hamle."
+    },
+    {
+      "id": "s071",
+      "category": "sporcu",
+      "text": "Düşmek utanç değil; kalkmamak öyle."
+    },
+    {
+      "id": "s072",
+      "category": "sporcu",
+      "text": "Hazırlık görünmez, ama sahada her şeyi belirler."
+    },
+    {
+      "id": "s073",
+      "category": "sporcu",
+      "text": "Büyük hedefler, küçük ve günlük disiplinlerin meyvesidir."
+    },
+    {
+      "id": "s074",
+      "category": "sporcu",
+      "text": "Pes etmek bir seçenek değil, sadece bir dürtü; geçer."
+    },
+    {
+      "id": "s075",
+      "category": "sporcu",
+      "text": "Kazanan en hızlı başlayan değil, durmadan devam edendir."
+    },
+    {
+      "id": "s076",
+      "category": "sporcu",
+      "text": "Antrenman ne kadar zorsa, gerçek o kadar kolaylaşır."
+    },
+    {
+      "id": "s077",
+      "category": "sporcu",
+      "text": "Şampiyonlar kötü günlerinde de işe gelir."
+    },
+    {
+      "id": "s078",
+      "category": "sporcu",
+      "text": "Sınırların çoğu, henüz test etmediğin varsayımlardır."
+    },
+    {
       "id": "z001",
       "category": "zihin",
       "text": "Nefesini kontrol et, zihnin sakinleşsin. Güç sakin zihinden doğar."
@@ -753,6 +1773,271 @@
       "text": "Şükret ve devam et; minnet, motivasyonu besler."
     },
     {
+      "id": "z031",
+      "category": "zihin",
+      "text": "Bugün yapamadığını ‘henüz yapamadım’ diye düşün; kapı açık kalsın."
+    },
+    {
+      "id": "z032",
+      "category": "zihin",
+      "text": "Zihnini eğit; vücut zaten onu takip edecek."
+    },
+    {
+      "id": "z033",
+      "category": "zihin",
+      "text": "Zihnin dümeni; nereye bakarsan oraya gidersin."
+    },
+    {
+      "id": "z034",
+      "category": "zihin",
+      "text": "Bugün yapamadığına 'henüz' ekle; kapı açık kalsın."
+    },
+    {
+      "id": "z035",
+      "category": "zihin",
+      "text": "Nefesini yavaşlat; güç sakinlikte saklı."
+    },
+    {
+      "id": "z036",
+      "category": "zihin",
+      "text": "Düşüncelerini seç; vücudun onları dinliyor."
+    },
+    {
+      "id": "z037",
+      "category": "zihin",
+      "text": "Kıyaslama mutluluğu çalar; sadece dünkü seninle yarış."
+    },
+    {
+      "id": "z038",
+      "category": "zihin",
+      "text": "Zihinsel dayanıklılık, rahatsızlıkla barışmaktır."
+    },
+    {
+      "id": "z039",
+      "category": "zihin",
+      "text": "Başarısızlık bir nokta değil, bir virgül; cümleye devam et."
+    },
+    {
+      "id": "z040",
+      "category": "zihin",
+      "text": "Sabır bir kas; çalıştırdıkça güçlenir."
+    },
+    {
+      "id": "z041",
+      "category": "zihin",
+      "text": "Korkuyu kovma; yanına al ve yine de yap."
+    },
+    {
+      "id": "z042",
+      "category": "zihin",
+      "text": "Bugünkü isteksizlik geçici, verdiğin karar kalıcı."
+    },
+    {
+      "id": "z043",
+      "category": "zihin",
+      "text": "Zihnin 'imkânsız' der; çoğu zaman 'henüz alışmadım' demektir."
+    },
+    {
+      "id": "z044",
+      "category": "zihin",
+      "text": "Küçük hedefler koy; ivme cesaretten güçlüdür."
+    },
+    {
+      "id": "z045",
+      "category": "zihin",
+      "text": "Mükemmeliyetçilik ilerlemeyi öldürür; 'yeterince iyi'yi yap."
+    },
+    {
+      "id": "z046",
+      "category": "zihin",
+      "text": "Kendine konuştuğun gibi bir dostuna konuşur muydun?"
+    },
+    {
+      "id": "z047",
+      "category": "zihin",
+      "text": "Zorlandığın an, beynin yeni yollar açtığı andır."
+    },
+    {
+      "id": "z048",
+      "category": "zihin",
+      "text": "Odağın enerjini yönlendirir; bugün nereye bakacaksın?"
+    },
+    {
+      "id": "z049",
+      "category": "zihin",
+      "text": "Negatif düşünce alışkanlıktır; yenisiyle değiştirilebilir."
+    },
+    {
+      "id": "z050",
+      "category": "zihin",
+      "text": "Hedefini gözünde canlandır; beyin yolu önceden çizsin."
+    },
+    {
+      "id": "z051",
+      "category": "zihin",
+      "text": "Zihnin sınırı, çoğu zaman bedeninin sınırından çok önce gelir."
+    },
+    {
+      "id": "z052",
+      "category": "zihin",
+      "text": "Bugün küçük bir kazanım yakala; özgüven kanıtla beslenir."
+    },
+    {
+      "id": "z053",
+      "category": "zihin",
+      "text": "Sakin zihin, güçlü bedeni yönetir."
+    },
+    {
+      "id": "z054",
+      "category": "zihin",
+      "text": "Kendine nazik ol; ama tembelliğine değil."
+    },
+    {
+      "id": "z055",
+      "category": "zihin",
+      "text": "Şükret ve devam et; minnet motivasyonu besler."
+    },
+    {
+      "id": "z056",
+      "category": "zihin",
+      "text": "Momentum, ilhamdan daha güvenilir bir dosttur."
+    },
+    {
+      "id": "z057",
+      "category": "zihin",
+      "text": "Bir adım at; netlik harekette gelir, beklemede değil."
+    },
+    {
+      "id": "z058",
+      "category": "zihin",
+      "text": "Zorluk seni tanımlamaz; ona verdiğin tepki tanımlar."
+    },
+    {
+      "id": "z059",
+      "category": "zihin",
+      "text": "Zihnini eğit; beden zaten onu takip eder."
+    },
+    {
+      "id": "z060",
+      "category": "zihin",
+      "text": "Kıyasıya rekabet içeride; dış dünya sadece sahne."
+    },
+    {
+      "id": "z061",
+      "category": "zihin",
+      "text": "Bugün bir kez daha derken, aslında zihnini büyütüyorsun."
+    },
+    {
+      "id": "z062",
+      "category": "zihin",
+      "text": "Kontrol edebildiğine odaklan; gerisi gürültü."
+    },
+    {
+      "id": "z063",
+      "category": "zihin",
+      "text": "Sabırlı tohum, en güçlü ağacı verir."
+    },
+    {
+      "id": "z064",
+      "category": "zihin",
+      "text": "Kendi hikâyeni yaz; başkasının senaryosunda dolma."
+    },
+    {
+      "id": "z065",
+      "category": "zihin",
+      "text": "Zihinsel güç, dikkatini koruyabilme sanatıdır."
+    },
+    {
+      "id": "z066",
+      "category": "zihin",
+      "text": "Stres yükseldiğinde, en güçlü araç hâlâ nefesin."
+    },
+    {
+      "id": "z067",
+      "category": "zihin",
+      "text": "Bugün hissettiğin yorgunluk, yarın gurura dönüşecek."
+    },
+    {
+      "id": "z068",
+      "category": "zihin",
+      "text": "Zihin der ki 'dur'; gerçek sınır genelde çok ötede."
+    },
+    {
+      "id": "z069",
+      "category": "zihin",
+      "text": "Düşündüğün şey olursun; o yüzden iyi düşün."
+    },
+    {
+      "id": "z070",
+      "category": "zihin",
+      "text": "Cesaret korkunun yokluğu değil, ona rağmen ilerlemektir."
+    },
+    {
+      "id": "z071",
+      "category": "zihin",
+      "text": "Kendine güven inşa edilir; bugün bir tuğla koy."
+    },
+    {
+      "id": "z072",
+      "category": "zihin",
+      "text": "Zihnini sakinleştir, hedefini netleştir, sonra harekete geç."
+    },
+    {
+      "id": "z073",
+      "category": "zihin",
+      "text": "Karşılaştırma değil, kıyas yapacaksan dünkü seninle yap."
+    },
+    {
+      "id": "z074",
+      "category": "zihin",
+      "text": "Zor günler geçer; pes etme alışkanlığı kalır. O yüzden geçme."
+    },
+    {
+      "id": "z075",
+      "category": "zihin",
+      "text": "İçindeki ses bazen yalan söyler; eylemine güven."
+    },
+    {
+      "id": "z076",
+      "category": "zihin",
+      "text": "Mükemmel anı bekleme; o an, harekete geçtiğin andır."
+    },
+    {
+      "id": "z077",
+      "category": "zihin",
+      "text": "Bugün küçük bir cesaret göster; cesaret de bir kas."
+    },
+    {
+      "id": "z078",
+      "category": "zihin",
+      "text": "Zihnin huzuru, bedenine verdiğin en büyük hediye."
+    },
+    {
+      "id": "z079",
+      "category": "zihin",
+      "text": "Başaramamak değil, denememek gerçek başarısızlıktır."
+    },
+    {
+      "id": "z080",
+      "category": "zihin",
+      "text": "Odak bir seçim; her gün yeniden seçilir."
+    },
+    {
+      "id": "z081",
+      "category": "zihin",
+      "text": "Korkularını küçült, hedeflerini büyüt."
+    },
+    {
+      "id": "z082",
+      "category": "zihin",
+      "text": "Zihnin yorulduğunda, beden hâlâ rezervde tutar."
+    },
+    {
+      "id": "z083",
+      "category": "zihin",
+      "text": "Bugünü kabul et, yarını planla, anı yaşa."
+    },
+    {
       "id": "b001",
       "category": "beslenme",
       "text": "Mutfakta kazanılan savaşlar, salonda zafere dönüşür. Bugün temiz besle."
@@ -876,6 +2161,161 @@
       "id": "b025",
       "category": "beslenme",
       "text": "Beslenme yüzde sekseni belirler; antrenman gerisini parlatır."
+    },
+    {
+      "id": "b026",
+      "category": "beslenme",
+      "text": "Hedefe giden tabak sade olur: protein, sebze, su."
+    },
+    {
+      "id": "b027",
+      "category": "beslenme",
+      "text": "Su iç; çoğu yorgunluk aslında susuzluktur."
+    },
+    {
+      "id": "b028",
+      "category": "beslenme",
+      "text": "Gerçek gıda seç; etiket ne kadar kısa, o kadar iyi."
+    },
+    {
+      "id": "b029",
+      "category": "beslenme",
+      "text": "Tabağının yarısı sebze olsun; gerisi dengelenir."
+    },
+    {
+      "id": "b030",
+      "category": "beslenme",
+      "text": "Beslenme ceza değil, kendine bakımın bir parçası."
+    },
+    {
+      "id": "b031",
+      "category": "beslenme",
+      "text": "Aç karnına markete gitme; karar gücün düşer."
+    },
+    {
+      "id": "b032",
+      "category": "beslenme",
+      "text": "Bir öğün seni ne bozar ne yapar; bütüne bak."
+    },
+    {
+      "id": "b033",
+      "category": "beslenme",
+      "text": "Hazırlıklı ol; yanında sağlıklı bir seçenek bulunsun."
+    },
+    {
+      "id": "b034",
+      "category": "beslenme",
+      "text": "Yavaş ye; tokluk birkaç dakika gecikerek gelir."
+    },
+    {
+      "id": "b035",
+      "category": "beslenme",
+      "text": "Mükemmel diyet yok; sürdürebildiğin diyet kazanır."
+    },
+    {
+      "id": "b036",
+      "category": "beslenme",
+      "text": "Kahvaltı günün tonunu kurar; atlama."
+    },
+    {
+      "id": "b037",
+      "category": "beslenme",
+      "text": "Renkli besle; farklı renk, farklı besin demek."
+    },
+    {
+      "id": "b038",
+      "category": "beslenme",
+      "text": "Protein antrenmanı destekler; tek başına sihir değil."
+    },
+    {
+      "id": "b039",
+      "category": "beslenme",
+      "text": "Yemeği düşman ilan etme; denge ve ölçü yeter."
+    },
+    {
+      "id": "b040",
+      "category": "beslenme",
+      "text": "Su şişeni yanından ayırma; küçük yudumlar büyük fark."
+    },
+    {
+      "id": "b041",
+      "category": "beslenme",
+      "text": "İşlenmiş atıştırmalık yerine meyve, kuruyemiş düşün."
+    },
+    {
+      "id": "b042",
+      "category": "beslenme",
+      "text": "Antrenman sonrası dengeli bir öğün, toparlanmanın yakıtı."
+    },
+    {
+      "id": "b043",
+      "category": "beslenme",
+      "text": "Lif dostundur; sindirim de bir performanstır."
+    },
+    {
+      "id": "b044",
+      "category": "beslenme",
+      "text": "Kendine 'temiz ama yeterli' kuralını koy."
+    },
+    {
+      "id": "b045",
+      "category": "beslenme",
+      "text": "Hedefin güçse, yeterince beslenmen şart."
+    },
+    {
+      "id": "b046",
+      "category": "beslenme",
+      "text": "Şeker anlık keyif, ardından düşüş; ölçülü kal."
+    },
+    {
+      "id": "b047",
+      "category": "beslenme",
+      "text": "Mutfakta verdiğin emek, salonda enerjiye dönüşür."
+    },
+    {
+      "id": "b048",
+      "category": "beslenme",
+      "text": "Hazır yemek değil, hazırladığın yemek seni taşır."
+    },
+    {
+      "id": "b049",
+      "category": "beslenme",
+      "text": "Vücudunu yakıtla; arabaya boş depoyla yola çıkılmaz."
+    },
+    {
+      "id": "b050",
+      "category": "beslenme",
+      "text": "Beslenme bir maraton; tek günle değil, alışkanlıkla ölçülür."
+    },
+    {
+      "id": "b051",
+      "category": "beslenme",
+      "text": "Akşam geç saatte ağır yeme; uykun da bir antrenman."
+    },
+    {
+      "id": "b052",
+      "category": "beslenme",
+      "text": "Kendi öğününü planla; plan, dürtüden güçlüdür."
+    },
+    {
+      "id": "b053",
+      "category": "beslenme",
+      "text": "Yeşillik, protein, su; sade üçlü çoğu işi görür."
+    },
+    {
+      "id": "b054",
+      "category": "beslenme",
+      "text": "Bir hata öğünü, hedefini bozmaz; devam et."
+    },
+    {
+      "id": "b055",
+      "category": "beslenme",
+      "text": "Vücudunu dinle; açlık ve tokluk sinyallerine güven."
+    },
+    {
+      "id": "b056",
+      "category": "beslenme",
+      "text": "Sağlıklı seçim kolay olsun diye, evi sağlıklıyla doldur."
     },
     {
       "id": "r001",
@@ -1003,56 +2443,6 @@
       "text": "Sabırlı toparlanma, aceleci ilerlemeyi her zaman geçer."
     },
     {
-      "id": "m051",
-      "category": "motivasyon",
-      "text": "Bugün seni zorlayan ağırlık, yarın ısınma hareketin olacak."
-    },
-    {
-      "id": "m052",
-      "category": "motivasyon",
-      "text": "Hedefe inanmak yetmez; her gün biraz ödemeyi göze al."
-    },
-    {
-      "id": "m053",
-      "category": "motivasyon",
-      "text": "Başarı, sıkıldığın günlerde bile devam edebilmektir."
-    },
-    {
-      "id": "d036",
-      "category": "disiplin",
-      "text": "Niyetini sabah kur; akşam yorgunluk seni ikna etmesin."
-    },
-    {
-      "id": "d037",
-      "category": "disiplin",
-      "text": "Küçük sözleri tut; büyük hedefler ona güvenir."
-    },
-    {
-      "id": "s036",
-      "category": "sporcu",
-      "text": "Şampiyon, herkesin bıraktığı yerde bir tekrar daha yapandır."
-    },
-    {
-      "id": "s037",
-      "category": "sporcu",
-      "text": "Maçı kazandıran, antrenmandaki o sıkıcı tekrarlardır."
-    },
-    {
-      "id": "z031",
-      "category": "zihin",
-      "text": "Bugün yapamadığını ‘henüz yapamadım’ diye düşün; kapı açık kalsın."
-    },
-    {
-      "id": "z032",
-      "category": "zihin",
-      "text": "Zihnini eğit; vücut zaten onu takip edecek."
-    },
-    {
-      "id": "b026",
-      "category": "beslenme",
-      "text": "Hedefe giden tabak sade olur: protein, sebze, su."
-    },
-    {
       "id": "r026",
       "category": "toparlanma",
       "text": "En verimli antrenman, iyi uyunmuş bir geceyle başlar."
@@ -1061,6 +2451,116 @@
       "id": "r027",
       "category": "toparlanma",
       "text": "Vücudun ‘dur’ dediğinde dinle; bilgelik orada."
+    },
+    {
+      "id": "r028",
+      "category": "toparlanma",
+      "text": "Dinlenmek pes etmek değil, güçlenmenin sessiz yarısı."
+    },
+    {
+      "id": "r029",
+      "category": "toparlanma",
+      "text": "Kaslar salonda yıkılır, uykuda büyür; erken yat."
+    },
+    {
+      "id": "r030",
+      "category": "toparlanma",
+      "text": "Esneme, yarınki antrenmana bugünden verdiğin hediye."
+    },
+    {
+      "id": "r031",
+      "category": "toparlanma",
+      "text": "Yorgunluk bir sinyaldir; akıllı sporcu dinler."
+    },
+    {
+      "id": "r032",
+      "category": "toparlanma",
+      "text": "Dinlenme günü zayıflık değil, programın en akıllı parçası."
+    },
+    {
+      "id": "r033",
+      "category": "toparlanma",
+      "text": "Uyku en güçlü ve en ucuz takviyedir."
+    },
+    {
+      "id": "r034",
+      "category": "toparlanma",
+      "text": "Ağrı ile sakatlığı ayırt et; birinde devam, diğerinde dur."
+    },
+    {
+      "id": "r035",
+      "category": "toparlanma",
+      "text": "Toparlanmadan ilerleme olmaz; bedenine onarım zamanı ver."
+    },
+    {
+      "id": "r036",
+      "category": "toparlanma",
+      "text": "Kas tutulması düşman değil, sürecin doğal parçası."
+    },
+    {
+      "id": "r037",
+      "category": "toparlanma",
+      "text": "Bugün dinlen ki yarın daha sert çalış."
+    },
+    {
+      "id": "r038",
+      "category": "toparlanma",
+      "text": "Aşırı antrenman da hatadır; bazen az, çoktur."
+    },
+    {
+      "id": "r039",
+      "category": "toparlanma",
+      "text": "Bedeni zorla ama dinlemeyi de öğren."
+    },
+    {
+      "id": "r040",
+      "category": "toparlanma",
+      "text": "Stresi yönet; yüksek stresle kas zor büyür."
+    },
+    {
+      "id": "r041",
+      "category": "toparlanma",
+      "text": "Derin uyku gizli bir antrenmandır; ciddiye al."
+    },
+    {
+      "id": "r042",
+      "category": "toparlanma",
+      "text": "Mobilite çalışması, geleceğin için bir sakatlık sigortası."
+    },
+    {
+      "id": "r043",
+      "category": "toparlanma",
+      "text": "Yorgunken inatla kaldırma; çoğu sakatlık orada başlar."
+    },
+    {
+      "id": "r044",
+      "category": "toparlanma",
+      "text": "Dinlenmiş beden, tükenmiş bedenden daha güçlü kaldırır."
+    },
+    {
+      "id": "r045",
+      "category": "toparlanma",
+      "text": "Toparlanmaya yatırım yap; kalıcı gelişim orada saklı."
+    },
+    {
+      "id": "r046",
+      "category": "toparlanma",
+      "text": "Bedenine teşekkür et; bugün seni taşıdı, gece onar."
+    },
+    {
+      "id": "r047",
+      "category": "toparlanma",
+      "text": "Deload haftası geri adım değil, ileri sıçrama için yaydır."
+    },
+    {
+      "id": "r048",
+      "category": "toparlanma",
+      "text": "Uykunu önceliklendir; gerisi onun üzerine kurulur."
+    },
+    {
+      "id": "r049",
+      "category": "toparlanma",
+      "text": "Bedenin sessiz uyarılarını duy; küçük mola büyük sakatlığı önler."
     }
   ]
 }
